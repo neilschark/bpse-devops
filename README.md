@@ -9,11 +9,12 @@ All server infrastructure is provided.
 This project aims to simulate a real development team where you will get consecutive requirements and independently have to implement them.
 
 Each team can choose their software stack freely, as long as it can accomplish the requirements.
+Programming knowledge is needed!
 
 The key aspects you will learn and use are:
 
 - Project management
-- Application development (incl. programming)
+- Application development
 - Developer experience
 - CI/CD and pipelines
 - Monitoring and operations
