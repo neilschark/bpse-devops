@@ -12,10 +12,10 @@ Each team can choose their software stack freely, as long as it can accomplish t
 
 The key aspects you will learn and use are:
 
-Project management
-Application development (incl. programming)
-Developer experience
-CI/CD and pipelines
-Monitoring and operations
+- Project management
+- Application development (incl. programming)
+- Developer experience
+- CI/CD and pipelines
+- Monitoring and operations
 
 This project will have small presentations for key aspects of DevOps made by the lecturers to give you some ideas on how to proceed, but the contents are not the only accepted solution. You are encouraged to solve the problem in your own way, as long as you can justify it.
