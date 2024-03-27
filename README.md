@@ -1,6 +1,6 @@
 # bpse-ss2024
 
-## Developing and Operation of a (Web)-Application with DevOps Engineering Principles
+## Development and Operations of a (Web)-Application with DevOps Engineering Principles
 
 In this project you will be creating a web application with DevOps principles.
 This means you (and your team) will plan, develop, deploy, operate and monitor the application in the hda cloud. To accomplish this you will use GitLab-CI and create pipelines to automate all relevant tasks.
