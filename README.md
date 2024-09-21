@@ -1,4 +1,4 @@
-# bpse-ss2024
+# bpse-devops
 
 ## Development and Operations of a (Web)-Application with DevOps Engineering Principles
 
